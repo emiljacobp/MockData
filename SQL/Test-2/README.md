@@ -1,1 +1,1 @@
-![alt text](https://github.com/emiljacobp/MockData/blob/master/C#/Test-2/Products.png?raw=true)
+![alt text](https://github.com/emiljacobp/MockData/blob/master/SQL/Test-2/Products.png?raw=true)
